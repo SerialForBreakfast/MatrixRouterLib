@@ -1,0 +1,17 @@
+{"Matrix Router":[
+    {"matrixName":"Matrix Pro 8x8 DVI",
+    "matrixDescription":"Barco Matrix Pro 8x8 DVI Router",
+    "matrixID":"1",
+    "inputArray":"8",
+    "outputArray":"8",
+    "currentStatus":"in[], out[]",
+    "commType":"",
+    "Serial":"",
+    "IPAddress":"192.168.0.243",
+    "Port":"23",
+    "SW Ver":"",
+    "HW Ver":"",
+    "Notes":"",
+
+    }
+]}
